@@ -1,0 +1,27 @@
+body{
+  color: blue;
+  background-image: url("../Images/protoype 2.jpg");
+}
+
+div{
+  width: 200px;
+  margin: 0 auto;
+}
+
+.Border{
+  color: white!important;
+}
+#Title{
+  padding: 100px 50px;
+  margin: 50px 40px;
+  height: 300px;
+  width: 75%;
+  border: solid;
+  color: white!important;
+}
+
+.test{
+  height: 300px;
+  width: 240px;
+
+}
